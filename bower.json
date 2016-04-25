@@ -1,0 +1,22 @@
+{
+  "name": "proyecto",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Karen Ibarra <karen.ibarra@planetmedia.com.mx>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "c3": "^0.4.10"
+  }
+}
